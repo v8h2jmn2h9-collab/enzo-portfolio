@@ -6,6 +6,6 @@ The HTML, CSS, JavaScript, selected images and PDF documents in this repository 
 
 For GitHub Pages, select **Settings → Pages → Deploy from a branch → main / (root)** after reviewing the files and approving publication. `.nojekyll` is included. Relative paths support the repository subpath.
 
-The general résumé will be added when Enzo provides it. The earlier targeted application PDF is excluded from the published site.
+The general résumé is available from the home page and contact section. The earlier targeted application PDF remains excluded from the published site.
 
 Original private reports, source photographs, audit notes and review screenshots are not included. The GRYP internship report is not offered for download because it contains a personal evaluation.
